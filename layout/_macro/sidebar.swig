@@ -83,6 +83,12 @@
           {% endif %}
         </div>
 
+        <div>
+          <a href="http://stackoverflow.com/users/5741762/haibara-ai">
+            <img src="http://stackoverflow.com/users/flair/5741762.png?theme=dark" width="208" height="58" alt="profile for Haibara Ai at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Haibara Ai at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+          </a>
+        </div>
+        
         {% set cc = {'by': 1, 'by-nc': 1, 'by-nc-nd': 1, 'by-nc-sa': 1, 'by-nd': 1, 'by-sa': 1, 'zero': 1} %}
         {% if theme.creative_commons in cc %}
           <div class="cc-license motion-element" itemprop="license">
