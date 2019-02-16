@@ -382,3 +382,7 @@ images: images
 
 # Theme version
 version: 5.0.1
+
+# Rewards
+reward_comment: Thank you for making the world a better place!
+wechatpay: /images/wechatpay.JPG
